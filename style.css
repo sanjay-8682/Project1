@@ -1,0 +1,523 @@
+.container{
+    background-image:url(unsplash_ELf8M_YWRTY.png);
+    width: 1440px;
+    height: 927px;
+    opacity: 90%;
+    position: relative;
+    
+}
+
+.bonvoyoge{
+    width: 314px;
+    height: 45px;
+    top: 48px;
+    left: 20px;
+    font-weight: 800;
+    font-size: 30px;
+    line-height:51.78px;
+    color: black;
+    position: relative;
+    font-family: peralta;
+}
+
+.Desitnation{
+    width: 148px;
+    height: 34px;
+    top: 45px;
+    padding: 8px;
+    gap: 8px;
+    font-weight: 700;
+    size: 22.61px;
+    line-height: 33.92px;
+    position: relative;
+
+
+}
+
+.hotel{
+    width:90px;
+    height:50px;
+    top: 45px;
+    padding: 8px;
+    left: 70px;
+    gap: 8px;
+    font-weight: 700;
+    size: 22.61px;
+    line-height:33.92px;
+    position: relative;
+
+
+}
+
+.flaight{
+    width:95px;
+    height: 50px;
+    top: 45px;
+    padding: 8px;
+    left: 140px;
+    gap: 8px;
+    font-weight: 700;
+    size: 22.61px;
+    line-height: 33.92px;
+    align-items: center;
+    position: relative;
+}
+
+.booking{
+    width: 124px;
+    height: 50px;
+    top: 45px;
+    left: 190px;
+    padding: 8px;
+    gap: 8px;
+    font-weight: 700;
+    size: 22.61px;
+    line-height: 33.92px;
+    position: relative;
+
+}
+
+#login{
+    width: 107px;
+    height:  40px;
+    top: 50px;
+    left: 200px;
+    border-radius: 8px;
+    background-color: #EC682C;
+    border: 1px;
+    padding:8px,20px,8px,20px;
+    gap: 8px;
+    font-weight: 400;
+    size: 22.61px;
+    line-height: 33.92px;
+    position: relative;
+    text-align: center;
+
+}
+
+#signup{
+    width: 125px;
+    height: 40px;
+    top: 50px;
+    border-radius: 8px;
+    border: 1px;
+    left: 250px;
+    background-color: #EC682C;
+    padding: 8px,20px,8px,20px;
+    gap: 8px;
+    font-weight: 400;
+    size: 22.61px;
+    line-height: 33.92px;
+    position: relative;
+    text-align:center ;
+
+}
+
+h1{
+    width: 1108px;
+    height: 89px;
+    top: 330px;
+    left: 41px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 118.38px;
+    letter-spacing: -4%;
+    color: #4B40C5;
+    position: relative;
+    
+}
+
+h2{
+  width: 757px;
+  height: 47px;
+  top: 340px;
+  left: 50px;
+  font-weight: 700;
+  size: 32px;
+  line-height: 48px;
+  color: #FFFFFF;
+  position: relative;
+  
+
+}
+
+#findmore{
+    width: 228.01px;
+    height: 75.88px;
+    top: 370px;
+    left: 66px;
+    font-weight: 500;
+    border-radius: 8px;
+    font-size: 25px;
+    line-height: 35.91px;
+    align-items: center;
+    background-color: #4B40C5;
+    color: #FFFFFF;
+    position: relative;
+    text-align: center;
+}
+
+.offers{
+    width: 1279px;
+    height: 672.05px;
+    position: relative;
+    left: 370px;
+}
+
+#Rome{
+    width: 417.66px;
+    height: 607.87px;
+    top: 2000px;
+    left: 1300px;
+    border-radius: 32px;
+    position: absolute;
+    background-image: url(Rectangle_146.png);
+    text-align-last: center;
+}
+
+#London{
+    width: 417.66px;
+    height:607.87px ;
+    top:2000px;
+    left: 400px;
+    border-radius: 32px;
+    position: absolute;
+    background-image: url(Rectangle_14.png);
+    text-align-last: center;
+}
+
+#italy{
+    width: 417.66px;
+    height: 607.87px;
+    top: 2000px;
+    left: 850px;
+    border-radius: 32px;
+    position:absolute;
+    background-image: url(Rectangle_145.png);
+    text-align-last: center;
+    
+}
+
+.Topselling{
+    width: 179px;
+    height: 48px;
+    top: 100px;
+    left: 900px;
+    font-weight: 700;
+    font-size: xx-large;
+    line-height: 48px;
+    color: #4B40C5;
+    text-align: center;
+    position: relative;
+}
+
+.Topdestinations{
+    width: 536px;
+    height: 93px;
+    top: 150px;
+    left: 750px;
+    font-weight: 700px;
+    font-size: 300%;
+    line-height: 93px;
+    color:  #14183E;
+    text-align: center;
+    position: relative;
+}
+
+.int{
+    position: absolute;
+    top: 2700px;
+    left: 400px;
+    font-size: x-large;
+    color:#5E6282;
+    width: 204px;
+    height: 32px;
+    font-weight: 600;
+    line-height: 35.91px;
+}
+    
+.steps{
+    position: absolute;
+    top:2750px;
+    left: 400px;
+    font-size: 400%;
+}
+
+.steps1{
+    position: absolute;
+    top: 2850px;
+    left: 400px;
+    font-size: 400%;
+}
+
+.value1{
+    position: absolute;
+    top: 2950px;
+    left: 400px;
+}
+.value2{
+    position: absolute;
+    top: 3050px;
+    left: 400px;
+}
+.value3{
+    position: absolute;
+    top: 3150px;
+    left: 400px;
+}
+
+.img17{
+    position: absolute;
+    top: 2850px;
+    left: 1300px;
+}
+.triptogreen{
+    position: absolute;
+    top: 3050px;
+    left: 1300px;
+    font-size: 130%;
+    font-weight: 700;
+}
+.Date{
+    position: absolute;
+    top: 3080px;
+    left: 1300px;
+}
+.month{
+    position: absolute;
+    top: 3110px;
+    left:1300px ;
+}
+.opt{
+    position: absolute;
+    top: 3130px;
+    left: 1300px;
+}
+.robbin{
+    position: absolute;
+    top: 3080px;
+    left: 1420px;
+}
+.Joseph{
+    position: absolute;
+    top: 3110px;
+    left: 1420px;
+}
+#build{
+    position: absolute;
+    top: 3170px;
+    left: 1300px;
+}
+.go{
+    position: absolute;
+    top: 3190px;
+    left: 1330px;
+}
+
+.img32{
+    position: absolute;
+    top: 3090px;
+    left: 1560px;
+    border-radius: 5px;
+}
+.ongoin{
+    position: absolute;
+    top: 3085px;
+    left: 1650px;
+}
+.Triptorome{
+    position: absolute;
+    top: 3110px;
+    left:1650px;
+    font-size: 120%;
+    font-weight: 600;
+}
+.percentage{
+    position: absolute;
+    top:3130px; 
+    left: 1650px;
+}
+
+#heart{
+    position: absolute;
+    top: 3170px;
+    left: 1650px;
+}
+
+.why{
+    position: absolute;
+    top: 3400px;
+    left: 1000px;
+    width: 326.16px;
+    height: 69.99px;
+    font-weight: 700;
+    font-size: 250%;
+    line-height: 72px;
+}
+.para{
+    position: absolute;
+    top: 3450px;
+    left:740px ;
+    font-weight: 400;
+    font-size: 180%;
+    line-height: 43.2px;
+    text-align: center;
+}
+
+.elips5{
+    position: absolute;
+    top: 3600px;
+    left: 400px;
+}   
+.vector1{
+    position: absolute;
+    top: 3650px;
+    left: 465px;
+}
+
+.elips6{
+    position: absolute;
+    top:3605px ;
+    left:1000px ;
+}
+.vector2{
+    position: absolute;
+    top:3650px ;
+    left: 1065px;
+}
+
+.elips7{
+    position: absolute;
+    top: 3605px;
+    left: 1550px;
+}
+.vector3{
+    position: absolute;
+    top: 3650px;
+    left: 1615px;
+}
+
+.handpickedhotels{
+    position: absolute;
+    top:3750px;
+    left: 400px;
+    font-size: 150%;
+    font-weight:700 ;
+}
+.worldclassser{
+    position: absolute;
+    top:3750px ;
+    left: 1000px;
+    font-size: 400px;
+    font-size: 150%;
+    font-weight: 700;
+}
+.bestprice{
+    position: absolute;
+    top: 3750px;
+    left: 1565px;
+    font-size: 150%;
+    font-weight: 700;
+
+}
+
+.para4{
+    position: absolute;
+    top: 3800px;
+    left:1500px ;
+    font-size: 130%;
+    font-weight: 600;
+
+}
+.para2{
+    position: absolute;
+    top:3800px ;
+    left: 1005px;
+    font-size:130% ;
+    font-weight:600 ;
+}
+.para3{
+    position: absolute;
+    top: 3800px;
+    left: 350px;
+    font-size:130% ;
+    font-weight:600 ;
+}
+
+.para5{
+    position: absolute;
+    top:4250px ;
+    left:950px ;
+    font-size: 200%;
+    font-weight: 750px;
+}
+#mail{
+    position: absolute;
+    top:4350px ;
+    left:950px ;
+    font-size: 200%;
+}
+#submit{
+    position: absolute;
+    top:4350px ;
+    left: 1350px;
+    font-size: 200%;
+    background-color: #FF946D;
+    ;
+}
+
+.place{
+    position: absolute;
+    top: 500px;
+    left: 50px;
+    background-color: #FFFFFF;
+}
+.AMount{
+    position: absolute;
+    top: 500px;
+    left: 290px;
+    background-color: #FFFFFF;
+}
+#tenday{
+    position: absolute;
+    top: 550px;
+    left: 50px;
+    background-color: #FFFFFF;
+}
+
+.pLace{
+    position: absolute;
+    top: 500px;
+    left: 130px;
+    background-color: #FFFFFF;
+}
+.Amount{
+    position: absolute;
+    top:500px ;
+    left: 320px;
+    background-color: #FFFFFF;
+}
+#twelday{
+    position: absolute;
+    top:550px ;
+    left: 130px;
+    background-color: #FFFFFF;
+}
+.Place{
+    position: absolute;
+    top: 500px;
+    left: 130px;
+    background-color: #FFFFFF;
+}
+.amount{
+    position: absolute;
+    top: 500px;
+    left: 320px;
+    background-color: #FFFFFF;
+}
+#tday{
+    position: absolute;
+    top: 550px;
+    left: 130px;
+    background-color: #FFFFFF;
+}
